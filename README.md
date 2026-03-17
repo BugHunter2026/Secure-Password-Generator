@@ -50,7 +50,7 @@ Unlike online generators that might log your data, this tool operates in **Total
 ### For Developers (Source Code)
 1. Clone the orbit: `git clone https://github.com/BugHunter2026/Secure-Password-Generator.git`
 2. Install fuel: `pip install customtkinter`
-3. Ignite: `python main.py`
+3. Ignite: `Secure_Password_Generator.py`
 
 ---
 
