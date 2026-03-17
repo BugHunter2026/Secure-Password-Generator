@@ -53,13 +53,6 @@ Unlike online generators that might log your data, this tool operates in **Total
 3. Ignite: `Secure_Password_Generator.py`
 
 ---
-
-## ☕ Fuel the Journey
-Developing clean, ad-free, and open-source tools is a labor of love. if this generator helps you secure your digital life, consider fueling the next update with a coffee!
-
-[![Support me on Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/bughunter)
-
----
 <div align="center">
   <i>"In cryptography we trust."</i>
 </div>
