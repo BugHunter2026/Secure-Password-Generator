@@ -44,7 +44,7 @@ Unlike online generators that might log your data, this tool operates in **Total
 
 ### For Users (Fast Entry)
 1. Head over to the **[Releases](https://github.com/BugHunter2026/Secure-Password-Generator/releases)** section.
-2. Download the `Secure_Password_Generator.exe`.
+2. Download the `Secure_Password_Generator.zip`.
 3. Launch and generate.
 
 ### For Developers (Source Code)
